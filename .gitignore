@@ -32,9 +32,3 @@ x86/
 # Personal settings
 *.VC.db
 *.VC.VC.opendb
-
-# Sensitive application data
-Clients.txt
-Users.txt
-TransferLog.txt
-LoginRegister.txt
